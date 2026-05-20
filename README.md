@@ -4,7 +4,7 @@ Sie können den Code vorab auf Ihrem Computer testen, indem Sie den Befehl:
 
 ```gradle aufgabe1Test```
 
-ausführen (bzw. für die anderen Aufgaben die Nummer der Aufgabe in dem Befehl anpassen). Dafür muss auf Ihrem System [gradle](https://gradle.org/) installiert sein. Alternativ können Sie die Tests auch direkt aus Ihrer IDE ausführen, wie in der Übung gezeigt. Es ist wichtig, dass Sie die Aufgaben online über git abgeben (wie in der Übung gezeigt, kurz: Auf der Kommandozeile `git add ./*; git commit -m "Fertig"; git push` bzw. über die IDEA-GUI mit Rechtsklick auf das Projektverzeichnis->git->push). Überprüfen Sie danach bitte unbedingt auf github.com, dass Ihre Ergebnisse auch wirklich online sind!
+ausführen (bzw. für die anderen Aufgaben die Nummer der Aufgabe in dem Befehl anpassen). Dafür muss auf Ihrem System [gradle](https://gradle.org/) installiert sein. Alternativ können Sie die Tests auch direkt aus Ihrer IDE ausführen, wie in der Übung gezeigt. 
 
 # Aufgabe 1
 
