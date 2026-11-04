@@ -3,11 +3,6 @@ plugins {
     id("com.adarshr.test-logger") version "4.0.0"
 }
 
-java {
-    toolchain {
-        languageVersion = JavaLanguageVersion.of(25)
-    }
-}
 
 group = "de.htw"
 version = "1.0-SNAPSHOT"
