@@ -27,6 +27,7 @@ class Programmieraufgabe2Test {
     @Test
     void main() {
         Programmieraufgabe2.main(new String[] {});
-        assertEquals("Hello, world!" + System.lineSeparator() + "What a great day to be alive!", outContent.toString().strip());
+        String out = outContent.toString().strip().replaceAll("\r", "");
+        assertEquals("Hello, world!\nWhat a great day to be alive!", out);
     }
 }
